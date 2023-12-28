@@ -309,6 +309,7 @@ footer{
         padding: 1rem 1rem;
         display: flex;
         flex-direction: column;
+        flex-wrap: wrap;
         gap: 0.5rem;
         align-items: center;
     }
@@ -361,9 +362,9 @@ footer{
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-        gap: 6rem;
+        gap: 2rem;
     
-        padding: 1rem 2rem;
+        padding: 1rem 1rem;
         margin:auto;
     
         overflow: clip;
