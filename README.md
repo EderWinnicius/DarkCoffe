@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DARKCOFFE
 
 Esta página estática foi desenvolvida como parte de um projeto de estudo de HTML e CSS, inspirado no tutorial da talentosa Rafaella Ballerini. O foco é a criação de uma experiência digital para um café fictício chamado DARKCOFFE.
@@ -14,3 +15,6 @@ O tutorial de Rafaella Ballerini foi fundamental para a aplicação de detalhes 
 ## Aplicação do Projeto
 
 Este projeto oferece uma introdução prática e aplicada aos princípios fundamentais de HTML e CSS, destacando a importância de um design responsivo e esteticamente agradável. Inspirado no tutorial da Rafaella Ballerini, busca-se promover uma experiência envolvente para os usuários, mesmo em um contexto de aprendizado.
+=======
+A simple HTML/JS/CSS starter template
+>>>>>>> dfa4949 (firts idx commit)
