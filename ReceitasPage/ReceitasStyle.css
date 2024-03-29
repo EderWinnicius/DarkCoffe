@@ -392,7 +392,7 @@ hr {
 .checked {
     background-color: #20AA57;
 
-    background-image: url(./RAssets/check.svg);
+    background-image: url(../assets/check.svg);
     background-size: cover;
     background-position: center;
 }
