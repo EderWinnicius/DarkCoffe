@@ -7,7 +7,7 @@
 }
 
 body {
-    background: #1a1a26;
+    background-color: #1a1a26;
     color: #fff;
 }
 
@@ -19,6 +19,7 @@ html {
 a {
     text-decoration: none;
     color: inherit;
+    
 }
 
 ul {
@@ -35,6 +36,8 @@ nav {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+
+    background-color: #131321;;
 }
 
 .Logo {
@@ -80,6 +83,14 @@ nav {
     color: #FFF2E7;
     font-weight: 600;
     cursor: pointer;
+
+    display: flex;
+    align-items: center;
+}
+
+.GitHub>ion-icon{
+    height: 1rem;
+    padding: 5px;
 }
 
 /*CORPO DA PÁGINA WEB*/
