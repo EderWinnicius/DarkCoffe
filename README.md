@@ -2,7 +2,7 @@
 
 Este é um projeto estático desenvolvido como parte de um estudo em andamento de HTML, CSS e JavaScript, inspirado no tutorial da talentosa Rafaella Ballerini. O objetivo é criar uma experiência digital para um café fictício chamado DARKCOFFE.
 
-[Visite a página DARKCOFFE](https://ederwinnicius.github.io/DarkCoffe/)
+[Visite a página DARKCOFFE](https://dark-coffe.vercel.app/)
 
 O layout responsivo foi implementado para garantir uma experiência consistente em diferentes dispositivos. Utilizamos propriedades do CSS Flexbox para organizar os elementos de forma intuitiva, proporcionando uma navegação fácil e agradável.
 
