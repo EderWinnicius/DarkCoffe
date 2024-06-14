@@ -188,6 +188,12 @@ button {
     box-shadow: 1px 1px 10px 2px #355399;
 }
 
+.rowbtn{
+    transition: .5s;
+    transform: rotate(180deg);
+}
+
+
 /*CARDS DA PÁGINA*/
 
 .receitas {
